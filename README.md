@@ -1,2 +1,2 @@
 # AdeventOfCode2019
-Advent of Code challanges from 2019
+Advent of Code challenges from 2019
